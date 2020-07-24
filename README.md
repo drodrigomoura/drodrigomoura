@@ -12,6 +12,10 @@
 
 <br />
 <br />
+
+Hi there, I'm **Damian Rodrigo Moura**, a **Web Developer** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student**(Final Degree Project in Process)🚀 from Argentina.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
