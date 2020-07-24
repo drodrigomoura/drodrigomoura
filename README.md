@@ -18,9 +18,9 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Web Developer** and a **Software Eng
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on **Freelance web development projects** 
-- 🌱 I’m currently learning VueJS, Vuex
+- 🌱 I’m currently learning **VueJS**, **Vuex**
 - 👯 I’m looking to collaborate on some international Project to learn more about web programming and improve my English
-- 💬 Ask me about Laravel, MySQL, CSS3, HTML5
+- 💬 Ask me about **Laravel**, **JavaScript**, **MySQL**, **CSS3**, **HTML5**, **React**, **Vue**, **Svelte**
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
