@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Damian Rodrigo Moura**, a **Web Developer** and a **Software Engineering student**(Final Degree Project in Process) :robot: 🚀 from Argentina.
+Hi there, I'm **Damian Rodrigo Moura**, a **Web Developer** and a **Software Engineering student**(Final Degree Project in Process) :robot: 🚀 from Argentina :argentina:.
 
 **SKILLS**
 - Native speaker of Spanish with intermediate proficiency in English.
