@@ -15,6 +15,8 @@
 
 Hi there, I'm **Damian Rodrigo Moura**, a **Web Developer** and a **Software Engineering student**(Final Degree Project in Process) :robot: 🚀 from Argentina :argentina:.
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 **SKILLS**
 - Native speaker of Spanish with intermediate proficiency in English.
 - Strong foundation in software engineering and programming principles.
