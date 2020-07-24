@@ -13,15 +13,20 @@
 <br />
 <br />
 
-Hi there, I'm **Damian Rodrigo Moura**, a **Web Developer** and a **Software Engineering student**(Final Degree Project in Process)🚀 from Argentina.
+Hi there, I'm **Damian Rodrigo Moura**, a **Web Developer** and a **Software Engineering student**(Final Degree Project in Process) :robot: 🚀 from Argentina.
 
+**SKILLS**
+- Native speaker of Spanish with intermediate proficiency in English.
+- Strong foundation in software engineering and programming principles.
+Experience with CSS3, HTML5, JavaScript, ReactJs, Redux, NodeJs/ExpressJs, TypeORM, MySQL, MySQL Workbench, Postman, Git, GitHub, Docker and Linux.
+Soft Skills: Sociable, Team player, Active learner, Self-taught, Curious and Proactive.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on **Web development** 
+- 🌱 I’m currently learning VueJS, Vuex
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with..
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
