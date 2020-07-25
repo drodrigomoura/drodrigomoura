@@ -38,4 +38,4 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 
 ### You can see some side projects :rocket: 👨🏽‍💻 below: 
 
-- CRUD Pizza orders: http://drm-pizza-house.herokuapp.com/login
+- CRUD Pizza orders: http://drm-pizza-house.herokuapp.com/
