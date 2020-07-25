@@ -35,3 +35,5 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
   - Listen to Music :headphones: and Play Video Games :video_game:
   - Travel :airplane:
   - I love go riding on my motorbike :bike:
+
+**You can see some side projects below: **
