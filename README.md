@@ -19,7 +19,7 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 
 - 🔭 I’m currently working on **Freelance web development projects** 
 - 🌱 I’m currently learning **VueJS**, **Vuex**
-- 👯 I’m looking to collaborate on Open Source
+- 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about **Laravel**, **JavaScript**, **MySQL**, **CSS3**, **HTML5**, **React**, **Vue**, **Svelte**
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
