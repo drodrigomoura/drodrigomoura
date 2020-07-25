@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **Software Engineering student**(Final Degree Project in Process) :robot: 🚀 from Argentina :argentina:. Beside's programming, I enjoy eating food and traveling :plane:.
+Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **Software Engineering student**(Final Degree Project in Process) :robot: 🚀 from Argentina :argentina:. Beside's programming, I enjoy eating food :pizza: :hamburger: and traveling :airplane:.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
