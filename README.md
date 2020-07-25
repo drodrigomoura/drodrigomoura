@@ -28,7 +28,7 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 - 📫 How to reach me: 
   - [![Gmail Badge](https://img.shields.io/badge/-d.rodrigomoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.rodrigomoura@gmail.com)](mailto:d.rodrigomoura@gmail.com)
   - [![Linkedin Badge](https://img.shields.io/badge/-drodrigomoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drodrigomoura/)](https://www.linkedin.com/in/drodrigomoura/)
-
+  - <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
