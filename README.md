@@ -38,4 +38,6 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 
 ### You can see some side projects :rocket: 👨🏽‍💻 below: 
 
-- CRUD Pizza orders: http://drm-pizza-house.herokuapp.com/
+- CRUD of Pizza orders: http://drm-pizza-house.herokuapp.com/
+  - You can order pizzas without login in the home page but to see the orders you need to login
+  - Tech: Laravel, MySQL, CSS, HTML, Bootstrap
