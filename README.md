@@ -22,7 +22,7 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 - 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about Tech, Soccer, Memes
 - 📫 How to reach me: 
-  :email: d.rodrigomoura@gmail.com
+  - :email: d.rodrigomoura@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
