@@ -27,6 +27,7 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 
 - 📫 How to reach me: 
   - [![Gmail Badge](https://img.shields.io/badge/-d.rodrigomoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.rodrigomoura@gmail.com)](mailto:d.rodrigomoura@gmail.com)
+  - [![Linkedin Badge](https://img.shields.io/badge/-drodrigomoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drodrigomoura/)](https://www.linkedin.com/in/drodrigomoura/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://www.twitter.com/_weltonfelix/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix/)
 - 😄 Pronouns: ...
