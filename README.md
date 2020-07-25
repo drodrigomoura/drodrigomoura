@@ -29,6 +29,9 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
   - [![Gmail Badge](https://img.shields.io/badge/-d.rodrigomoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.rodrigomoura@gmail.com)](mailto:d.rodrigomoura@gmail.com)
   - [![Linkedin Badge](https://img.shields.io/badge/-drodrigomoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drodrigomoura/)](https://www.linkedin.com/in/drodrigomoura/)
   - Message me at <a href="https://api.whatsapp.com/send?phone=+5493764683195"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact:
+  - Play soccer :soccer:	and paddle :tennis: with friends
+  - Listen to Music :headphones: and Play Video Games :video_game:
+  - Travel :airplane:
+  - I love go riding on my motorbike :bike:
