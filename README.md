@@ -18,14 +18,15 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on **Freelance web development projects** with **Laravel**, **JavaScript**, **MySQL**, **CSS3**, **HTML5**, **Bootstrap**, **MaterializeCSS**
+
 - 🌱 I’m currently learning **VueJS**, **Vuex**
+
 - 👯 I’m looking to collaborate on **Open Source**
+
 - 💬 Ask me about Tech, Soccer, Memes
+
 - 📫 How to reach me: 
-  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.rodrigomoura@gmail.com)](mailto:d.rodrigomoura@gmail.com)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@weltonfelix)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
+  - [![Gmail Badge](https://img.shields.io/badge/-d.rodrigomoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.rodrigomoura@gmail.com)](mailto:d.rodrigomoura@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://www.twitter.com/_weltonfelix/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix/)
 - 😄 Pronouns: ...
