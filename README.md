@@ -36,4 +36,4 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
   - Travel :airplane:
   - I love go riding on my motorbike :bike:
 
-**You can see some side projects below: **
+# You can see some side projects below: 
