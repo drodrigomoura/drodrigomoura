@@ -41,3 +41,7 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 - CRUD of Pizza orders: http://drm-pizza-house.herokuapp.com/
   - You can order pizzas without login in the home page but to see the orders you need to login
   - Tech: Bootstrap, CSS, HTML, Laravel, MySQL, Heroku
+  
+- Movie Search: http://drm-search-movies.surge.sh/
+  - You can search movies by the titles and you can see a detail of the movie
+  - Tech: React, Js, CSS, OMDb API
