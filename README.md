@@ -38,7 +38,7 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 ### You can see some side projects :rocket: 👨🏽‍💻 below: 
 
 - Contacts Manager: https://jot-tuto.herokuapp.com/login
-  - You can manage contacts (CRUD), search your contacts in an input search implemented with laravel-scout-tntsearch
+  - You can manage contacts (CRUD), search your contacts in an input search implemented with laravel-scout-tntsearch and see the contacts whose birthday is in the current month.
   - Tech: TailwindCSS, Laravel API, TDD, VueJS, Docker, Postgres, Heroku
 
 - CRUD of Pizza orders: http://drm-pizza-house.herokuapp.com/
