@@ -46,4 +46,8 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
   
 - Movie Search: http://drm-search-movies.surge.sh/
   - You can search movies by the titles and you can see a detail of the movie
-  - Tech: React, Js, CSS, OMDb API
+  - Tech: ReactJs, CSS, OMDb API
+  
+- Blog: https://marioplan-c0177.firebaseapp.com/signin
+  - You can register and post articles
+  - Tech: React, CSS, Firebase, Firestore
