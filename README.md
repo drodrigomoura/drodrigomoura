@@ -12,7 +12,7 @@ Hi there, I'm **Damian Rodrigo Moura**, a **Full Stack web Developer** and a **S
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working as a **Frontend React developer** with **Webpack**, **Babel**, **Styled-compoenents**, **CSS3**, **HTML5**
-# - 🌱 I’m currently learning **ReactJS**
+<!-- - 🌱 I’m currently learning **ReactJS** -->
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about Tech, Soccer, Memes
